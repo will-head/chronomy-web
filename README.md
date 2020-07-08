@@ -13,6 +13,8 @@ Playlists are shared with deliberately long UUID based URLs to ensure they are e
 This is the React frontend for app, the backend is here:
 [github.com/will-head/chronomy-api](https://github.com/will-head/chronomy-api)
 
+![Chronomy Player on a phone](./images/chronomy-01.jpg "Chronomy Player on a phone")
+
 ## Setup
 
 ```bash
