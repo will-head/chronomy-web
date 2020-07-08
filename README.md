@@ -11,7 +11,7 @@ Chronomy lets curators create playlists of suitable content and then share them 
 Playlists are shared with deliberately long UUID based URLs to ensure they are effectively private and can't be discovered unintentionally.
 
 This is the React frontend for app, the backend is here:
-[github.com/will-head/chronomy-api: Backend Rails API for Makers final project](https://github.com/will-head/chronomy-api)
+[github.com/will-head/chronomy-api](https://github.com/will-head/chronomy-api)
 
 ## Setup
 
